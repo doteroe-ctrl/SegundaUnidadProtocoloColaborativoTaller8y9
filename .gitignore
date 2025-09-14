@@ -27,3 +27,6 @@ hs_err_pid*
 .settings/
 bin/
 out/
+/super/Ejercio1/nbproject/private/
+/super/Ejercio2/nbproject/private/
+/super/Ejercio3/nbproject/private/
