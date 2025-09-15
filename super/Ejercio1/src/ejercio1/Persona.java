@@ -43,7 +43,7 @@ class Empleado extends Persona {
         return departamento;
     }
 
-    // Sobrescribir mostrarDetalles
+    
     @Override
     public void mostrarDetalles() {
         super.mostrarDetalles();
@@ -51,4 +51,4 @@ class Empleado extends Persona {
     }
 }
 
-// Clase principal
+
